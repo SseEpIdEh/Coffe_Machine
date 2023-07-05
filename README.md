@@ -3,13 +3,13 @@
 
 **Features:**
 
-Interactive menu: Users can navigate through the menu options to view available drinks and select their preferences.
+Interactive menu: users can navigate through the menu options to view available drinks and select their preferences.
 
-Drink customization: Users can customize their coffee beverages by choosing the size, type of milk, and additional toppings.
+Drink customization: users can customize their coffee beverages by choosing the size, type of milk, and additional toppings.
 
-Order summary: After placing an order, users can review a summary of their selections and the corresponding price.
+Order summary: after placing an order, users can review a summary of their selections and the corresponding price.
 
-Payment processing: Users can input their payment details to complete the transaction.
+Payment processing: users can input their payment details to complete the transaction.
 
 **Installation**
 
